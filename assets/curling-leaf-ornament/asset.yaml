@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: curling-leaf-ornament
+title: Curling leaf ornament on a long stem
+description: A tall foliate ornament of broad lobed leaves that curl into two spirals, one at the top left and one at the top right, with smaller curled leaves sprouting between them; a long thin stem sweeps down from the foliage to the lower right and a short forked twig branches off it toward the lower left. Engraved in dark brown-black line with hatched shading, the leaf and stem interiors filled with the cream paper tone, on a transparent background.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - leaf
+  - scroll
+  - flourish
+colors:
+  - cream
+  - brown
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-92
+render:
+  image: {}
+usage_notes:
+  - Tall piece (about 2:3); the bare stem at the bottom can be cropped away to keep only the leaf cluster.
+display_width:
+  - 200
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+quality: Leaf interiors are the cream paper tone at alpha 250–253 rather than 255, invisible in use.
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Leaf Ornament
+  object_identifier: 1943.3.92
+  date: c. 1480/1490
+  artist: Martin Schongauer
+  record_url: https://www.nga.gov/collection/art-object-page.3304.html
+  image_url: https://api.nga.gov/iiif/ae603a15-6b28-4fac-ad99-e15c290787ee/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 1e8e2cd8ca16f62349117a9dab3bcefc5042ad7d631d9ce85d931b13c7fd7e94
+license: null

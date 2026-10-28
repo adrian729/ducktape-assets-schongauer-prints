@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: curling-thistle-ornament
+title: Curling thistle ornament
+description: A tall thistle ornament in which a thick stem rises from a short rooted base at the bottom right, curves up and to the left, and breaks into spiky, deeply cut thistle leaves that spread in a loose crown across the top; smaller spiky leaf sprays grow from the stem at the right and at the lower left. Engraved in dark brown-black line with hatched shading, the leaf and stem interiors filled with the cream paper tone, on a transparent background.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - thistle
+  - leaf
+  - sprig
+colors:
+  - cream
+  - brown
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-91
+render:
+  image: {}
+usage_notes:
+  - Stands upright on its rooted base; works as a tall side ornament or a tailpiece.
+display_width:
+  - 200
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+quality: Leaf interiors are the cream paper tone at alpha 250–253 rather than 255, invisible in use.
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Thistle Ornament
+  object_identifier: 1943.3.91
+  date: 1450–1491 (catalog year range)
+  artist: Martin Schongauer
+  record_url: https://www.nga.gov/collection/art-object-page.3303.html
+  image_url: https://api.nga.gov/iiif/ef921c34-916e-42e4-97a0-933cf8e94350/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 9311b765f9b8a2b9897e141cfd698187b23ca21cc4bd8275a275ed04faf9827c
+license: null

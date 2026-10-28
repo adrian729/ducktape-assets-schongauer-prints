@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: upper-flying-day-bird
+title: Small bird flying left
+description: A small bird in flight, seen from the side and facing left, with both wings raised and swept back and a pointed tail trailing at the upper right. Engraved in dark brown-black line with hatched shading, the body and wings filled with the cream paper tone, on a transparent background.
+type: illustration
+categories:
+  - animals
+subjects:
+  - bird
+  - wings
+colors:
+  - cream
+  - black
+  - brown
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 1943-3-93
+render:
+  image: {}
+related:
+  - asset: schongauer-prints/owl-and-perching-birds-in-leafy-scroll
+    role: companion
+  - asset: schongauer-prints/lower-flying-day-bird
+    role: companion
+usage_notes:
+  - Cut from the top centre of the owl sheet; pair it with the sheet or with the other flying bird, which faces the opposite way.
+display_width:
+  - 100
+  - 260
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+quality: Body interior is the cream paper tone at alpha 250–253 rather than 255, invisible in use.
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Ornament with Owl Mocked by Day Birds
+  object_identifier: 1943.3.93
+  date: c. 1480/1490
+  artist: Martin Schongauer
+  record_url: https://www.nga.gov/collection/art-object-page.3305.html
+  image_url: https://api.nga.gov/iiif/d626f080-0fb8-4305-8619-2d1bf53dd536/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: d4977fd42e66afc84dfa4575ae585bd403b62874b381c97e6ac7380c6d1873e6
+license: null

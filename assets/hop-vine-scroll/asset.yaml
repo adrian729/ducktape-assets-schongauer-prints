@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: hop-vine-scroll
+title: Hop vine and leaf scroll panel
+description: A wide rectangular panel filled edge to edge with foliage, broad curling lobed leaves on thick stems interwoven with a thinner hop vine that carries serrated leaves and hanging hop cones, the thick stems looping into a large ring at the centre; a thin engraved plate rule runs along all four sides. Engraved in dark brown line only, with the ground showing through between the hatch lines, on a transparent background.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - hop
+  - vine
+  - leaf
+  - scroll
+  - rule
+colors:
+  - brown
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-90
+render:
+  image: {}
+usage_notes:
+  - Line work only; the ink is partial alpha and the page shows between the lines, so it reads best on light or cream grounds.
+  - The thin plate rule on all four sides is part of the master; crop just inside it for a borderless panel.
+display_width:
+  - 600
+  - 1400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+quality: Some hatch bands carry the wear of the original impression, and faint paper-stain speckle survives in the ink mask near the edges.
+provenance:
+  method: native-ink-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Ornament with Hop Vine
+  object_identifier: 1943.3.90
+  date: c. 1480/1490
+  artist: Martin Schongauer
+  record_url: https://www.nga.gov/collection/art-object-page.3302.html
+  image_url: https://api.nga.gov/iiif/4130d104-3624-44c3-80d5-a3425865e186/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 3336d71d8e2aa0bab32460bc5bc4a110c1fec95ce4c41d15210dd0dfec17e8e7
+license: null
