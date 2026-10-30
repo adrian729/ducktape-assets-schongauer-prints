@@ -3,7 +3,7 @@
 
 Leaf, thistle and hop-vine ornaments and the owl mocked by day birds, engraved by Martin Schongauer in Colmar around 1480–1490, from four sheets in the National Gallery of Art, Washington; loose prints by one artist, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `schongauer-prints`, historical, 6 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `schongauer-prints`, historical, 6 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `schongauer-prints/curling-leaf-ornament`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-schongauer-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-schongauer-prints@1.0.0/webp/curling-leaf-ornament-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-schongauer-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-schongauer-prints-masters`; never put a master on a page.
